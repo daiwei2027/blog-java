@@ -1,0 +1,10 @@
+servlet/DoModify.class
+servlet/Modify.class
+servlet/Detail.class
+bean/Blog.class
+servlet/Create.class
+servlet/View.class
+servlet/DoCreate.class
+com/mycompany/mavenproject2/JakartaRestConfiguration.class
+com/mycompany/mavenproject2/resources/JakartaEE11Resource.class
+bean/Category.class

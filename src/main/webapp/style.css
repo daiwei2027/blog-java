@@ -1,0 +1,78 @@
+#left
+{
+	width: 30%;
+	height: 800px;
+	float: left;
+}
+
+#right
+{
+	width: 70%;
+	height: 600px;
+	float:left;
+}
+
+#nav
+{
+  	width: 70%;
+	height: 200px;
+}
+
+#left a.login
+{
+  float: left;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background-color: green;
+  border-radius: 5px;
+}
+
+#left a.register
+{
+  float: left;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background-color: red;
+  border-radius: 5px;
+}
+
+#left a
+{
+  float: left;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background-color: #999999;
+}
+
+#left a:hover
+{
+  background-color: #bbbbbb;
+}
+
+#right a
+{
+  float: left;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background-color: #999999;
+}
+
+#right a:hover
+{
+  background-color: #bbbbbb;
+}
+
+#nav a
+{
+  float: left;
+  height: 40px;
+  line-height: 40px;
+}
